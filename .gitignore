@@ -1,1 +1,4 @@
+#Ignora arquivos e pastas do ambiente virtual
 .venv/
+
+teste_automacao.ipynb
